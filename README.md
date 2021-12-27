@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JINA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=JINA&fontAlign=70&rotate=13&fontAlignY=25&desc=Learn%20or%20Run&descAlign=70.&descAlignY=44)
 
 
   
