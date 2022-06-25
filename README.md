@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88jina)](https://github.com/88jina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88jina&hide=html)](https://github.com/88jina/github-readme-stats)
 
 
   
