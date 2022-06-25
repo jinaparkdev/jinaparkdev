@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=JINA&fontAlign=70&rotate=13&fontAlignY=25&desc=Learn%20and%20Run&descAlign=70.&descAlignY=44)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88jina)](https://github.com/88jina/github-readme-stats)
 
 
   
